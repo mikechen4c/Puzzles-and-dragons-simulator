@@ -1,0 +1,7 @@
+Earth Golem
+3
+Physical
+Wood
+831
+309
+38

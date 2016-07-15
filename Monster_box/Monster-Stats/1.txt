@@ -1,0 +1,7 @@
+Flame Golem
+1
+Physical
+Fire
+819
+316
+33

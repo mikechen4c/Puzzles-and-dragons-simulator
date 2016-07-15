@@ -1,0 +1,7 @@
+Valkyrie
+45
+Healer
+Light
+1000
+555
+256

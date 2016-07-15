@@ -1,0 +1,7 @@
+Ice Golem
+2
+Physical
+Water
+825
+300
+38

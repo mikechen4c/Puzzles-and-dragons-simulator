@@ -1,0 +1,7 @@
+Machine Golem
+4
+Physical
+Light
+694
+347
+29

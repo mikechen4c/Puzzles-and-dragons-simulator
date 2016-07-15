@@ -1,0 +1,7 @@
+Cupid	
+9
+Healer
+Light
+275
+175
+283
